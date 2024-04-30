@@ -1,0 +1,1 @@
+select * from `inf3862-big-data.airbyte_gcp.products` LIMIT 10 
